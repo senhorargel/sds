@@ -23,7 +23,7 @@
     ]
   },
   "devDependencies": {
-    "@figma/code-connect": "^1.4.9",
+    "@figma/code-connect": "^2.0.1",
     "@react-types/shared": "^3.23.0",
     "@storybook/addon-essentials": "^8.6.12",
     "@storybook/addon-interactions": "^8.6.12",
